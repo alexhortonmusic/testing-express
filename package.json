@@ -1,0 +1,24 @@
+{
+  "name": "testing-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexhortonmusic/testing-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexhortonmusic/testing-express/issues"
+  },
+  "homepage": "https://github.com/alexhortonmusic/testing-express#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
